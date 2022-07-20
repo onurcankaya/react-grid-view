@@ -1,5 +1,7 @@
 ## React Grid View
 
+You can see the deployed version here: https://react-grid-view.netlify.app
+
 ![app-screenshot](./src/assets/images/app.png)
 
 #### Install dependencies
